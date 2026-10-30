@@ -1,0 +1,8 @@
+C:\hệ điều hành\lab6\lab6\bin\Debug\lab6.exe.config
+C:\hệ điều hành\lab6\lab6\bin\Debug\lab6.exe
+C:\hệ điều hành\lab6\lab6\bin\Debug\lab6.pdb
+C:\hệ điều hành\lab6\lab6\obj\Debug\lab6.csproj.AssemblyReference.cache
+C:\hệ điều hành\lab6\lab6\obj\Debug\lab6.csproj.CoreCompileInputs.cache
+C:\hệ điều hành\lab6\lab6\obj\Debug\lab6.exe
+C:\hệ điều hành\lab6\lab6\obj\Debug\lab6.pdb
+C:\hệ điều hành\lab6\lab6\obj\Debug\lab6.exe.config
